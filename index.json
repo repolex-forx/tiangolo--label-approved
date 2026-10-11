@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "label-approved",
+  "versions": [
+    {
+      "commit": "189338a34da6449ea0db0f4bea846cf2ca754f30",
+      "tag": "0.0.5",
+      "parsed_at": "2026-10-11T19:47:04.318146+00:00"
+    }
+  ]
+}
