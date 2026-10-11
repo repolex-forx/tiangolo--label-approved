@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "tiangolo",
+  "repo": "label-approved",
+  "versions": [
+    {
+      "commit": "189338a34da6449ea0db0f4bea846cf2ca754f30",
+      "parsed_at": "2026-10-11T19:45:07.079235+00:00",
+      "tag": "0.0.5",
+      "filetree": "filetree/189338a34da6449ea0db0f4bea846cf2ca754f30.nq.gz",
+      "blobs": [
+        "blob/0045fb8182cf94a55db192aa3bc8c4c7e033da47.nq.gz",
+        "blob/e3e989a4b4a03a9123d90ae02cadef5c4d7c8d7b.nq.gz",
+        "blob/dde1c7a9dc8e0c551e57682c28ce2e9f1ac11bc3.nq.gz",
+        "blob/1323c838f18bdab77014ca29910e337a79d1b714.nq.gz",
+        "blob/fe887128231a6530ea79e916e1430772488d81b6.nq.gz",
+        "blob/cc72dcd93da80544d3724bb329633f61c38bbf5e.nq.gz",
+        "blob/0295827b7da1a7fd3e84bbd24ca2548871b51fb7.nq.gz",
+        "blob/0ffc101a3f23548392499fe5104f3f8cf4d4e91b.nq.gz",
+        "blob/d535dc8c53b768076670f0c4408673cbeaeef7b1.nq.gz",
+        "blob/ade122f400db4ef27bfe9748a3a2d32b80b3141b.nq.gz",
+        "blob/59ff54044c3c2fa9df771e5c2bc5359495c2cf7a.nq.gz",
+        "blob/65e67cfb063afee5e324e7f9d4fba08d088883c1.nq.gz",
+        "blob/4f7c3d01ef90180eac6b7aea49c70fa6b031e962.nq.gz",
+        "blob/d025b2c67caa73aa9f0646fe879dfe32c4e9b781.nq.gz",
+        "blob/cd972a0ba47221bf96acedfaed8f3b5cba819849.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/6d0ca61c391c0d54fa97e1e8244139dea29c09cf.nq.gz",
+        "blob/e53209ee9e88aa0b213a0d68242ad46dc3c0c8c1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
