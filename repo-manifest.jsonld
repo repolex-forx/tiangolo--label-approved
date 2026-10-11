@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/label-approved/commit/189338a34da6449ea0db0f4bea846cf2ca754f30",
       "git:hexsha": "189338a34da6449ea0db0f4bea846cf2ca754f30",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.0.5"
     },
     {
