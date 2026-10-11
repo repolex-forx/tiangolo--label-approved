@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/label-approved/commit/189338a34da6449ea0db0f4bea846cf2ca754f30",
       "git:hexsha": "189338a34da6449ea0db0f4bea846cf2ca754f30",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.0.5"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.0.5",
+      "repolex:parsedAt": "2026-10-11T19:47:04.317655+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/label-approved/commit/e2739392a026d630b09d81f5a7e66531f3b8a7dd",
